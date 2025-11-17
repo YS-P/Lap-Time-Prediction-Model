@@ -65,8 +65,7 @@ chmod +x run.sh
 
 4) Two modeling strategies  
 ✅ Baseline Model  
-Trained using all drivers mixed, predicts lap time globally.
-
+Trained using all drivers mixed, predicts lap time globally.   
 ✅ Driver-specific Models  
 Trains one model per driver and evaluates performance individually.
 
