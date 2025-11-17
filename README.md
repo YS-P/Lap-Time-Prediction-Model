@@ -63,7 +63,7 @@ chmod +x run.sh
 - Select Top 8 numerical features  
 - Add essential two categorical features  
 
-4) Two modeling strategies
+4) Two modeling strategies  
 ✅ Baseline Model  
 Trained using all drivers mixed, predicts lap time globally.
 
