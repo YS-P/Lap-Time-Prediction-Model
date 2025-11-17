@@ -67,12 +67,11 @@ chmod +x run.sh
 ✅ Baseline Model  
 Trained using all drivers mixed, predicts lap time globally.   
 ✅ Driver-specific Models  
-Trains one model per driver and evaluates performance individually.
+Trains one model per driver and evaluates performance individually.  
+  : Driver-specific models can learn each driver’s unique driving style.  
+  Compare them with the baseline to evaluate whether personalized training improves lap-time prediction performance.
 
-: Driver-specific models can learn each driver’s unique driving style.  
-Compare them with the baseline to evaluate whether personalized training improves lap-time prediction performance.
-
-5) Visualization  
+6) Visualization  
 - For each driver: Plot actual vs predicted lap times  
 - Auto-colored by team livery  
 - Titles include driver + team name  
