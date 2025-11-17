@@ -1,5 +1,6 @@
 # Lap-Time-Prediction-Model
-Project that leverages FastF1 to predict next-lap performance at Silverstone 2025 using features such as previous lap times, air and track temperatures, tyre information, and other session metadata.
+Project that leverages FastF1 to predict next-lap performance at Silverstone 2025 using features such as previous lap times, air and track temperatures, tyre information, and other session metadata.  
+
 <img width="1500" height="768" alt="image" src="https://github.com/user-attachments/assets/27c400e9-1b89-41a9-82ff-2bae56191655" />
 
 ## Project Description
